@@ -4,7 +4,7 @@ __pycache__/
 .DS_Store
 
 # Salidas del informe exportado
-informe.html
-informe.pdf
-informe.md
-informe_files/
+informe*.html
+informe*.pdf
+informe*.md
+informe*_files/
